@@ -22,3 +22,4 @@ The goal of ``cub3d`` is to make *something* using raycasting (like [Wolfenstein
 * [Images in minilibx](https://github.com/keuhdall/images_example)
 * [BMP format on StackOverflow](https://stackoverflow.com/questions/2654480/writing-bmp-image-in-pure-c-c-without-other-libraries)
 * [BMP format explanation](https://web.archive.org/web/20080912171714/http://www.fortunecity.com/skyscraper/windows/364/bmpffrmt.html)
+* [Source github] (https://github.com/Glagan/42-cub3d)
